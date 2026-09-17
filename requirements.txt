@@ -1,0 +1,11 @@
+fastf1
+pandas
+numpy
+scikit-learn
+lightgbm
+jupyter
+ipykernel
+matplotlib
+seaborn
+requests
+pyarrow
