@@ -228,4 +228,4 @@ def extract_seasons_batch(start_year: int = 2018, end_year: int = 2025):
 
 
 if __name__ == "__main__":
-    extract_seasons_batch(start_year=2018, end_year=2025)
+    extract_seasons_batch(start_year=2018, end_year=2022)
