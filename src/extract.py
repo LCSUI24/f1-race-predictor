@@ -33,6 +33,13 @@ def parse_session_safe(year: int, round_num: int, session_type: str, max_retries
         except Exception:
             # Sesi dibatalkan atau tidak tersedia
             return None
+        except RateLimitExceededError:
+            print(f"\n[RATE LIMIT] Kuota habis pada {year} R{round_num} {session_type}. Tunggu 20 menit...")
+            time.sleep(1200)
+            retries += 1
+        except Exception as e:
+            print(f"  [SKIP] {year} R{round_num} {session_type} gagal dimuat: {e}")
+            return None
     return None
 
 
@@ -188,6 +195,8 @@ def extract_seasons_batch(start_year: int = 2018, end_year: int = 2025):
             try:
                 schedule = fastf1.get_event_schedule(year)
                 races = schedule[schedule["EventFormat"] != "testing"]
+                today = pd.Timestamp.now().normalize()
+                races = races[pd.to_datetime(races["EventDate"]) <= today]
                 break
             except RateLimitExceededError:
                 print(f"\n[RATE LIMIT] Terkena limit saat membaca jadwal {year}. Menunggu 20 menit...")
@@ -228,4 +237,4 @@ def extract_seasons_batch(start_year: int = 2018, end_year: int = 2025):
 
 
 if __name__ == "__main__":
-    extract_seasons_batch(start_year=2018, end_year=2022)
+    extract_seasons_batch(start_year=2018, end_year=2026)

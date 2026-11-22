@@ -155,7 +155,7 @@ def main():
             df[col] = df[col].fillna(df[col].median())
 
     # Uji Walk-Forward pada musim 2023, 2024, dan 2025
-    for yr in [2023, 2024, 2025]:
+    for yr in [2023, 2024, 2025, 2026]:
         if yr in df["year"].values:
             last_model = evaluate_walk_forward(df, features, target_year=yr)
 
