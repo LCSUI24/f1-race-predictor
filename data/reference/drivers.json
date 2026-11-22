@@ -1,0 +1,186 @@
+{
+  "VET": {
+    "name": "Sebastian Vettel",
+    "country": "de"
+  },
+  "HAM": {
+    "name": "Lewis Hamilton",
+    "country": "gb"
+  },
+  "RAI": {
+    "name": "Kimi Räikkönen",
+    "country": "fi"
+  },
+  "RIC": {
+    "name": "Daniel Ricciardo",
+    "country": "au"
+  },
+  "ALO": {
+    "name": "Fernando Alonso",
+    "country": "es"
+  },
+  "VER": {
+    "name": "Max Verstappen",
+    "country": "nl"
+  },
+  "HUL": {
+    "name": "Nico Hülkenberg",
+    "country": "de"
+  },
+  "BOT": {
+    "name": "Valtteri Bottas",
+    "country": "fi"
+  },
+  "VAN": {
+    "name": "Stoffel Vandoorne",
+    "country": "be"
+  },
+  "SAI": {
+    "name": "Carlos Sainz Jr.",
+    "country": "es"
+  },
+  "PER": {
+    "name": "Sergio Pérez",
+    "country": "mx"
+  },
+  "OCO": {
+    "name": "Esteban Ocon",
+    "country": "fr"
+  },
+  "LEC": {
+    "name": "Charles Leclerc",
+    "country": "mc"
+  },
+  "STR": {
+    "name": "Lance Stroll",
+    "country": "ca"
+  },
+  "HAR": {
+    "name": "Brendon Hartley",
+    "country": "nz"
+  },
+  "GRO": {
+    "name": "Romain Grosjean",
+    "country": "fr"
+  },
+  "MAG": {
+    "name": "Kevin Magnussen",
+    "country": "dk"
+  },
+  "GAS": {
+    "name": "Pierre Gasly",
+    "country": "fr"
+  },
+  "ERI": {
+    "name": "Marcus Ericsson",
+    "country": "se"
+  },
+  "SIR": {
+    "name": "Sergey Sirotkin",
+    "country": "ru"
+  },
+  "KVY": {
+    "name": "Daniil Kvyat",
+    "country": "ru"
+  },
+  "NOR": {
+    "name": "Lando Norris",
+    "country": "gb"
+  },
+  "ALB": {
+    "name": "Alexander Albon",
+    "country": "th"
+  },
+  "GIO": {
+    "name": "Antonio Giovinazzi",
+    "country": "it"
+  },
+  "RUS": {
+    "name": "George Russell",
+    "country": "gb"
+  },
+  "KUB": {
+    "name": "Robert Kubica",
+    "country": "pl"
+  },
+  "LAT": {
+    "name": "Nicholas Latifi",
+    "country": "ca"
+  },
+  "AIT": {
+    "name": "Jack Aitken",
+    "country": "gb"
+  },
+  "FIT": {
+    "name": "Pietro Fittipaldi",
+    "country": "br"
+  },
+  "TSU": {
+    "name": "Yuki Tsunoda",
+    "country": "jp"
+  },
+  "MSC": {
+    "name": "Mick Schumacher",
+    "country": "de"
+  },
+  "MAZ": {
+    "name": "Nikita Mazepin",
+    "country": "ru"
+  },
+  "ZHO": {
+    "name": "Guanyu Zhou",
+    "country": "cn"
+  },
+  "DEV": {
+    "name": "Nyck de Vries",
+    "country": "nl"
+  },
+  "SAR": {
+    "name": "Logan Sargeant",
+    "country": "us"
+  },
+  "PIA": {
+    "name": "Oscar Piastri",
+    "country": "au"
+  },
+  "LAW": {
+    "name": "Liam Lawson",
+    "country": "nz"
+  },
+  "BEA": {
+    "name": "Oliver Bearman",
+    "country": "gb"
+  },
+  "COL": {
+    "name": "Franco Colapinto",
+    "country": "ar"
+  },
+  "DOO": {
+    "name": "Jack Doohan",
+    "country": "au"
+  },
+  "ANT": {
+    "name": "Kimi Antonelli",
+    "country": "it"
+  },
+  "BOR": {
+    "name": "Gabriel Bortoleto",
+    "country": "br"
+  },
+  "HAD": {
+    "name": "Isack Hadjar",
+    "country": "fr"
+  },
+  "LIN": {
+    "name": "Arvid Lindblad",
+    "country": "gb"
+  },
+  "HIR": {
+    "name": "Ryō Hirakawa",
+    "country": "jp"
+  },
+  "CAM": {
+    "name": "Rafael Câmara",
+    "country": "br"
+  }
+}

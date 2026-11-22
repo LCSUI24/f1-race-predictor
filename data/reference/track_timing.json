@@ -1,0 +1,197 @@
+{
+  "austin-1": {
+    "calibrated": true,
+    "direction": 1,
+    "start": 0.53674
+  },
+  "bahrain-1": {
+    "calibrated": true,
+    "direction": -1,
+    "start": 0.89564
+  },
+  "bahrain-3": {
+    "calibrated": false,
+    "direction": -1,
+    "start": 0
+  },
+  "baku-1": {
+    "calibrated": true,
+    "direction": 1,
+    "start": 0.92965
+  },
+  "catalunya-4": {
+    "calibrated": true,
+    "direction": 1,
+    "start": 0.0532
+  },
+  "catalunya-5": {
+    "calibrated": true,
+    "direction": 1,
+    "start": 0.05124
+  },
+  "catalunya-6": {
+    "calibrated": true,
+    "direction": 1,
+    "start": 0.0532
+  },
+  "hockenheimring-4": {
+    "calibrated": false,
+    "direction": 1,
+    "start": 0
+  },
+  "hungaroring-3": {
+    "calibrated": true,
+    "direction": 1,
+    "start": 0.85774
+  },
+  "imola-3": {
+    "calibrated": true,
+    "direction": 1,
+    "start": 0.88853
+  },
+  "interlagos-2": {
+    "calibrated": true,
+    "direction": 1,
+    "start": 0.20071
+  },
+  "istanbul-1": {
+    "calibrated": false,
+    "direction": 1,
+    "start": 0
+  },
+  "jeddah-1": {
+    "calibrated": true,
+    "direction": 1,
+    "start": 0.0832
+  },
+  "las-vegas-1": {
+    "calibrated": true,
+    "direction": 1,
+    "start": 0.47266
+  },
+  "lusail-1": {
+    "calibrated": true,
+    "direction": 1,
+    "start": 0.95855
+  },
+  "madring-1": {
+    "calibrated": true,
+    "direction": 1,
+    "start": 0.6105
+  },
+  "marina-bay-3": {
+    "calibrated": true,
+    "direction": 1,
+    "start": 0.04328
+  },
+  "marina-bay-4": {
+    "calibrated": true,
+    "direction": 1,
+    "start": 0.055
+  },
+  "melbourne-1": {
+    "calibrated": true,
+    "direction": 1,
+    "start": 0.08663
+  },
+  "melbourne-2": {
+    "calibrated": true,
+    "direction": 1,
+    "start": 0.08468
+  },
+  "mexico-city-3": {
+    "calibrated": true,
+    "direction": 1,
+    "start": 0.00993
+  },
+  "miami-1": {
+    "calibrated": true,
+    "direction": 1,
+    "start": 0.97461
+  },
+  "monaco-6": {
+    "calibrated": true,
+    "direction": 1,
+    "start": 0.3065
+  },
+  "montreal-6": {
+    "calibrated": true,
+    "direction": 1,
+    "start": 0.41809
+  },
+  "monza-7": {
+    "calibrated": true,
+    "direction": 1,
+    "start": 0.69912
+  },
+  "mugello-1": {
+    "calibrated": false,
+    "direction": 1,
+    "start": 0
+  },
+  "nurburgring-4": {
+    "calibrated": false,
+    "direction": 1,
+    "start": 0
+  },
+  "paul-ricard-3": {
+    "calibrated": false,
+    "direction": 1,
+    "start": 0
+  },
+  "portimao-1": {
+    "calibrated": false,
+    "direction": -1,
+    "start": 0
+  },
+  "sepang-1": {
+    "calibrated": true,
+    "direction": -1,
+    "start": 0.49984
+  },
+  "shanghai-1": {
+    "calibrated": true,
+    "direction": -1,
+    "start": 0.61068
+  },
+  "silverstone-8": {
+    "calibrated": true,
+    "direction": 1,
+    "start": 0.94063
+  },
+  "sirius-1": {
+    "calibrated": false,
+    "direction": -1,
+    "start": 0
+  },
+  "spa-francorchamps-4": {
+    "calibrated": true,
+    "direction": 1,
+    "start": 0.95255
+  },
+  "spielberg-3": {
+    "calibrated": true,
+    "direction": -1,
+    "start": 0.86734
+  },
+  "suzuka-2": {
+    "calibrated": true,
+    "direction": 1,
+    "start": 0.57677
+  },
+  "yas-marina-1": {
+    "calibrated": true,
+    "direction": -1,
+    "start": 0.37929
+  },
+  "yas-marina-2": {
+    "calibrated": true,
+    "direction": -1,
+    "start": 0.37538
+  },
+  "zandvoort-5": {
+    "calibrated": true,
+    "direction": 1,
+    "start": 0.08063
+  }
+}

@@ -1,0 +1,197 @@
+year,round,event_name,layout,circuit_name,place,country,length_km,turns,winner_lap_seconds
+2018,1,Australian Grand Prix,melbourne-1,Albert Park Circuit,Melbourne,Australia,5.303,16,92.643
+2018,2,Bahrain Grand Prix,bahrain-1,Bahrain International Circuit,Sakhir,Bahrain,5.412,15,96.876
+2018,3,Chinese Grand Prix,shanghai-1,Shanghai International Circuit,Shanghai,China,5.451,16,102.435
+2018,4,Azerbaijan Grand Prix,baku-1,Baku City Circuit,Baku,Azerbaijan,6.003,20,122.045
+2018,5,Spanish Grand Prix,catalunya-4,Circuit de Barcelona-Catalunya,Montmeló,Spain,4.655,16,86.818
+2018,6,Monaco Grand Prix,monaco-6,Circuit de Monaco,Monte Carlo,Monaco,3.337,19,79.164
+2018,7,Canadian Grand Prix,montreal-6,Circuit Gilles Villeneuve,Montreal,Canada,4.361,14,78.108
+2018,8,French Grand Prix,paul-ricard-3,Circuit Paul Ricard,Le Castellet,France,5.842,15,102.102
+2018,9,Austrian Grand Prix,spielberg-3,Red Bull Ring,Spielberg,Austria,4.318,10,69.24
+2018,10,British Grand Prix,silverstone-8,Silverstone Circuit,Silverstone,United Kingdom,5.891,18,100.957
+2018,11,German Grand Prix,hockenheimring-4,Hockenheimring,Hockenheim,Germany,4.574,17,82.834
+2018,12,Hungarian Grand Prix,hungaroring-3,Hungaroring,Budapest,Hungary,4.381,14,83.378
+2018,13,Belgian Grand Prix,spa-francorchamps-4,Circuit de Spa-Francorchamps,Spa,Belgium,7.004,19,113.965
+2018,14,Italian Grand Prix,monza-7,Autodromo Nazionale Monza,Monza,Italy,5.793,11,87.066
+2018,15,Singapore Grand Prix,marina-bay-3,Marina Bay Street Circuit,Singapore,Singapore,5.063,23,109.371
+2018,16,Russian Grand Prix,sirius-1,Sirius Autodrom,Sirius,Russia,5.848,18,98.966
+2018,17,Japanese Grand Prix,suzuka-2,Suzuka Circuit,Suzuka,Japan,5.807,18,98.812
+2018,18,United States Grand Prix,austin-1,Circuit of the Americas,Austin,United States of America,5.513,20,101.047
+2018,19,Mexican Grand Prix,mexico-city-3,Autódromo Hermanos Rodríguez,Mexico City,Mexico,4.304,17,83.223
+2018,20,Brazilian Grand Prix,interlagos-2,Autódromo José Carlos Pace,São Paulo,Brazil,4.309,15,73.649
+2018,21,Abu Dhabi Grand Prix,yas-marina-1,Yas Marina Circuit,Abu Dhabi,United Arab Emirates,5.554,21,108.734
+2019,1,Australian Grand Prix,melbourne-1,Albert Park Circuit,Melbourne,Australia,5.303,16,88.402
+2019,2,Bahrain Grand Prix,bahrain-1,Bahrain International Circuit,Sakhir,Bahrain,5.412,15,99.321
+2019,3,Chinese Grand Prix,shanghai-1,Shanghai International Circuit,Shanghai,China,5.451,16,98.685
+2019,4,Azerbaijan Grand Prix,baku-1,Baku City Circuit,Baku,Azerbaijan,6.003,20,108.097
+2019,5,Spanish Grand Prix,catalunya-4,Circuit de Barcelona-Catalunya,Montmeló,Spain,4.655,16,87.128
+2019,6,Monaco Grand Prix,monaco-6,Circuit de Monaco,Monte Carlo,Monaco,3.337,19,79.595
+2019,7,Canadian Grand Prix,montreal-6,Circuit Gilles Villeneuve,Montreal,Canada,4.361,14,76.387
+2019,8,French Grand Prix,paul-ricard-3,Circuit Paul Ricard,Le Castellet,France,5.842,15,95.683
+2019,9,Austrian Grand Prix,spielberg-3,Red Bull Ring,Spielberg,Austria,4.318,10,69.321
+2019,10,British Grand Prix,silverstone-8,Silverstone Circuit,Silverstone,United Kingdom,5.891,18,93.624
+2019,11,German Grand Prix,hockenheimring-4,Hockenheimring,Hockenheim,Germany,4.574,17,97.989
+2019,12,Hungarian Grand Prix,hungaroring-3,Hungaroring,Budapest,Hungary,4.381,14,81.483
+2019,13,Belgian Grand Prix,spa-francorchamps-4,Circuit de Spa-Francorchamps,Spa,Belgium,7.004,19,114.221
+2019,14,Italian Grand Prix,monza-7,Autodromo Nazionale Monza,Monza,Italy,5.793,11,85.409
+2019,15,Singapore Grand Prix,marina-bay-3,Marina Bay Street Circuit,Singapore,Singapore,5.063,23,116.617
+2019,16,Russian Grand Prix,sirius-1,Sirius Autodrom,Sirius,Russia,5.848,18,106.019
+2019,17,Japanese Grand Prix,suzuka-2,Suzuka Circuit,Suzuka,Japan,5.807,18,94.361
+2019,18,Mexican Grand Prix,mexico-city-3,Autódromo Hermanos Rodríguez,Mexico City,Mexico,4.304,17,81.816
+2019,19,United States Grand Prix,austin-1,Circuit of the Americas,Austin,United States of America,5.513,20,100.637
+2019,20,Brazilian Grand Prix,interlagos-2,Autódromo José Carlos Pace,São Paulo,Brazil,4.309,15,78.798
+2019,21,Abu Dhabi Grand Prix,yas-marina-1,Yas Marina Circuit,Abu Dhabi,United Arab Emirates,5.554,21,102.649
+2020,1,Austrian Grand Prix,spielberg-3,Red Bull Ring,Spielberg,Austria,4.318,10,76.841
+2020,2,Styrian Grand Prix,spielberg-3,Red Bull Ring,Spielberg,Austria,4.318,10,70.01
+2020,3,Hungarian Grand Prix,hungaroring-3,Hungaroring,Budapest,Hungary,4.381,14,82.464
+2020,4,British Grand Prix,silverstone-8,Silverstone Circuit,Silverstone,United Kingdom,5.891,18,101.563
+2020,5,70th Anniversary Grand Prix,silverstone-8,Silverstone Circuit,Silverstone,United Kingdom,5.891,18,91.961
+2020,6,Spanish Grand Prix,catalunya-4,Circuit de Barcelona-Catalunya,Montmeló,Spain,4.655,16,83.413
+2020,7,Belgian Grand Prix,spa-francorchamps-4,Circuit de Spa-Francorchamps,Spa,Belgium,7.004,19,114.745
+2020,8,Italian Grand Prix,monza-7,Autodromo Nazionale Monza,Monza,Italy,5.793,11,121.246
+2020,9,Tuscan Grand Prix,mugello-1,Autodromo Internazionale del Mugello,Scarperia e San Piero,Italy,5.245,15,141.95
+2020,10,Russian Grand Prix,sirius-1,Sirius Autodrom,Sirius,Russia,5.848,18,106.422
+2020,11,Eifel Grand Prix,nurburgring-4,Nürburgring,Nürburg,Germany,5.148,15,95.827
+2020,12,Portuguese Grand Prix,portimao-1,Algarve International Circuit,Portimão,Portugal,4.653,15,81.77
+2020,13,Emilia Romagna Grand Prix,imola-3,Autodromo Internazionale Enzo e Dino Ferrari,Imola,Italy,4.909,19,84.324
+2020,14,Turkish Grand Prix,istanbul-1,TOSFED İstanbul Park,Istanbul,Turkey,5.338,14,105.85
+2020,15,Bahrain Grand Prix,bahrain-1,Bahrain International Circuit,Sakhir,Bahrain,5.412,15,189.255
+2020,16,Sakhir Grand Prix,bahrain-3,Bahrain International Circuit,Sakhir,Bahrain,3.543,11,62.932
+2020,17,Abu Dhabi Grand Prix,yas-marina-1,Yas Marina Circuit,Abu Dhabi,United Arab Emirates,5.554,21,105.248
+2021,1,Bahrain Grand Prix,bahrain-1,Bahrain International Circuit,Sakhir,Bahrain,5.412,15,98.641
+2021,2,Emilia Romagna Grand Prix,imola-3,Autodromo Internazionale Enzo e Dino Ferrari,Imola,Italy,4.909,19,116.74
+2021,3,Portuguese Grand Prix,portimao-1,Algarve International Circuit,Portimão,Portugal,4.653,15,85.931
+2021,4,Spanish Grand Prix,catalunya-5,Circuit de Barcelona-Catalunya,Montmeló,Spain,4.675,16,84.662
+2021,5,Monaco Grand Prix,monaco-6,Circuit de Monaco,Monte Carlo,Monaco,3.337,19,76.113
+2021,6,Azerbaijan Grand Prix,baku-1,Baku City Circuit,Baku,Azerbaijan,6.003,20,157.185
+2021,7,French Grand Prix,paul-ricard-3,Circuit Paul Ricard,Le Castellet,France,5.842,15,98.977
+2021,8,Styrian Grand Prix,spielberg-3,Red Bull Ring,Spielberg,Austria,4.318,10,69.562
+2021,9,Austrian Grand Prix,spielberg-3,Red Bull Ring,Spielberg,Austria,4.318,10,70.909
+2021,10,British Grand Prix,silverstone-8,Silverstone Circuit,Silverstone,United Kingdom,5.891,18,136.602
+2021,11,Hungarian Grand Prix,hungaroring-3,Hungaroring,Budapest,Hungary,4.381,14,106.903
+2021,12,Belgian Grand Prix,spa-francorchamps-4,Circuit de Spa-Francorchamps,Spa,Belgium,7.004,19,207.071
+2021,13,Dutch Grand Prix,zandvoort-5,Circuit Zandvoort,Zandvoort,Netherlands,4.259,14,75.075
+2021,14,Italian Grand Prix,monza-7,Autodromo Nazionale Monza,Monza,Italy,5.793,11,92.724
+2021,15,Russian Grand Prix,sirius-1,Sirius Autodrom,Sirius,Russia,5.848,18,102.66
+2021,16,Turkish Grand Prix,istanbul-1,TOSFED İstanbul Park,Istanbul,Turkey,5.338,14,94.209
+2021,17,United States Grand Prix,austin-1,Circuit of the Americas,Austin,United States of America,5.513,20,101.367
+2021,18,Mexican Grand Prix,mexico-city-3,Autódromo Hermanos Rodríguez,Mexico City,Mexico,4.304,17,83.367
+2021,19,São Paulo Grand Prix,interlagos-2,Autódromo José Carlos Pace,São Paulo,Brazil,4.309,15,78.068
+2021,20,Qatar Grand Prix,lusail-1,Lusail International Circuit,Lusail,Qatar,5.380,16,88.921
+2021,21,Saudi Arabian Grand Prix,jeddah-1,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,6.174,27,151.502
+2021,22,Abu Dhabi Grand Prix,yas-marina-2,Yas Marina Circuit,Abu Dhabi,United Arab Emirates,5.281,16,93.403
+2022,1,Bahrain Grand Prix,bahrain-1,Bahrain International Circuit,Sakhir,Bahrain,5.412,15,102.694
+2022,2,Saudi Arabian Grand Prix,jeddah-1,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,6.174,27,101.186
+2022,3,Australian Grand Prix,melbourne-2,Albert Park Circuit,Melbourne,Australia,5.278,14,90.803
+2022,4,Emilia Romagna Grand Prix,imola-3,Autodromo Internazionale Enzo e Dino Ferrari,Imola,Italy,4.909,19,87.746
+2022,5,Miami Grand Prix,miami-1,Miami International Autodrome,Miami Gardens,United States of America,5.412,19,99.373
+2022,6,Spanish Grand Prix,catalunya-5,Circuit de Barcelona-Catalunya,Montmeló,Spain,4.675,16,88.492
+2022,7,Monaco Grand Prix,monaco-6,Circuit de Monaco,Monte Carlo,Monaco,3.337,19,109.223
+2022,8,Azerbaijan Grand Prix,baku-1,Baku City Circuit,Baku,Azerbaijan,6.003,20,110.705
+2022,9,Canadian Grand Prix,montreal-6,Circuit Gilles Villeneuve,Montreal,Canada,4.361,14,82.597
+2022,10,British Grand Prix,silverstone-8,Silverstone Circuit,Silverstone,United Kingdom,5.891,18,159.044
+2022,11,Austrian Grand Prix,spielberg-3,Red Bull Ring,Spielberg,Austria,4.318,10,71.328
+2022,12,French Grand Prix,paul-ricard-3,Circuit Paul Ricard,Le Castellet,France,5.842,15,101.927
+2022,13,Hungarian Grand Prix,hungaroring-3,Hungaroring,Budapest,Hungary,4.381,14,85.37
+2022,14,Belgian Grand Prix,spa-francorchamps-4,Circuit de Spa-Francorchamps,Spa,Belgium,7.004,19,117.111
+2022,15,Dutch Grand Prix,zandvoort-5,Circuit Zandvoort,Zandvoort,Netherlands,4.259,14,80.594
+2022,16,Italian Grand Prix,monza-7,Autodromo Nazionale Monza,Monza,Italy,5.793,11,91.085
+2022,17,Singapore Grand Prix,marina-bay-3,Marina Bay Street Circuit,Singapore,Singapore,5.063,23,124.411
+2022,18,Japanese Grand Prix,suzuka-2,Suzuka Circuit,Suzuka,Japan,5.807,18,389.429
+2022,19,United States Grand Prix,austin-1,Circuit of the Americas,Austin,United States of America,5.513,20,109.494
+2022,20,Mexican Grand Prix,mexico-city-3,Autódromo Hermanos Rodríguez,Mexico City,Mexico,4.304,17,83.334
+2022,21,São Paulo Grand Prix,interlagos-2,Autódromo José Carlos Pace,São Paulo,Brazil,4.309,15,83.296
+2022,22,Abu Dhabi Grand Prix,yas-marina-2,Yas Marina Circuit,Abu Dhabi,United Arab Emirates,5.281,16,90.792
+2023,1,Bahrain Grand Prix,bahrain-1,Bahrain International Circuit,Sakhir,Bahrain,5.412,15,98.89
+2023,2,Saudi Arabian Grand Prix,jeddah-1,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,6.174,27,97.498
+2023,3,Australian Grand Prix,melbourne-2,Albert Park Circuit,Melbourne,Australia,5.278,14,157.903
+2023,4,Azerbaijan Grand Prix,baku-1,Baku City Circuit,Baku,Azerbaijan,6.003,20,109.067
+2023,5,Miami Grand Prix,miami-1,Miami International Autodrome,Miami Gardens,United States of America,5.412,19,92.25
+2023,6,Monaco Grand Prix,monaco-6,Circuit de Monaco,Monte Carlo,Monaco,3.337,19,83.743
+2023,7,Spanish Grand Prix,catalunya-6,Circuit de Barcelona-Catalunya,Montmeló,Spain,4.657,14,79.969
+2023,8,Canadian Grand Prix,montreal-6,Circuit Gilles Villeneuve,Montreal,Canada,4.361,14,80.548
+2023,9,Austrian Grand Prix,spielberg-3,Red Bull Ring,Spielberg,Austria,4.318,10,72.304
+2023,10,British Grand Prix,silverstone-8,Silverstone Circuit,Silverstone,United Kingdom,5.891,18,98.403
+2023,11,Hungarian Grand Prix,hungaroring-3,Hungaroring,Budapest,Hungary,4.381,14,84.123
+2023,12,Belgian Grand Prix,spa-francorchamps-4,Circuit de Spa-Francorchamps,Spa,Belgium,7.004,19,112.51
+2023,13,Dutch Grand Prix,zandvoort-5,Circuit Zandvoort,Zandvoort,Netherlands,4.259,14,120.061
+2023,14,Italian Grand Prix,monza-7,Autodromo Nazionale Monza,Monza,Italy,5.793,11,86.689
+2023,15,Singapore Grand Prix,marina-bay-4,Marina Bay Street Circuit,Singapore,Singapore,4.940,19,103.184
+2023,16,Japanese Grand Prix,suzuka-2,Suzuka Circuit,Suzuka,Japan,5.807,18,102.989
+2023,17,Qatar Grand Prix,lusail-1,Lusail International Circuit,Lusail,Qatar,5.419,16,92.266
+2023,18,United States Grand Prix,austin-1,Circuit of the Americas,Austin,United States of America,5.513,20,102.167
+2023,19,Mexican Grand Prix,mexico-city-3,Autódromo Hermanos Rodríguez,Mexico City,Mexico,4.304,17,103.533
+2023,20,São Paulo Grand Prix,interlagos-2,Autódromo José Carlos Pace,São Paulo,Brazil,4.309,15,98.717
+2023,21,Las Vegas Grand Prix,las-vegas-1,Las Vegas Street Circuit,Las Vegas,United States of America,6.201,17,106.966
+2023,22,Abu Dhabi Grand Prix,yas-marina-2,Yas Marina Circuit,Abu Dhabi,United Arab Emirates,5.281,16,90.045
+2024,1,Bahrain Grand Prix,bahrain-1,Bahrain International Circuit,Sakhir,Bahrain,5.412,15,96.574
+2024,2,Saudi Arabian Grand Prix,jeddah-1,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,6.174,27,96.865
+2024,3,Australian Grand Prix,melbourne-2,Albert Park Circuit,Melbourne,Australia,5.278,14,83.221
+2024,4,Japanese Grand Prix,suzuka-2,Suzuka Circuit,Suzuka,Japan,5.807,18,129.501
+2024,5,Chinese Grand Prix,shanghai-1,Shanghai International Circuit,Shanghai,China,5.451,16,108.081
+2024,6,Miami Grand Prix,miami-1,Miami International Autodrome,Miami Gardens,United States of America,5.412,19,95.612
+2024,7,Emilia Romagna Grand Prix,imola-3,Autodromo Internazionale Enzo e Dino Ferrari,Imola,Italy,4.909,19,81.353
+2024,8,Monaco Grand Prix,monaco-6,Circuit de Monaco,Monte Carlo,Monaco,3.337,19,110.199
+2024,9,Canadian Grand Prix,montreal-6,Circuit Gilles Villeneuve,Montreal,Canada,4.361,14,90.685
+2024,10,Spanish Grand Prix,catalunya-6,Circuit de Barcelona-Catalunya,Montmeló,Spain,4.657,14,80.306
+2024,11,Austrian Grand Prix,spielberg-3,Red Bull Ring,Spielberg,Austria,4.318,10,71.307
+2024,12,British Grand Prix,silverstone-8,Silverstone Circuit,Silverstone,United Kingdom,5.891,18,95.136
+2024,13,Hungarian Grand Prix,hungaroring-3,Hungaroring,Budapest,Hungary,4.381,14,84.028
+2024,14,Belgian Grand Prix,spa-francorchamps-4,Circuit de Spa-Francorchamps,Spa,Belgium,7.004,19,109.036
+2024,15,Dutch Grand Prix,zandvoort-5,Circuit Zandvoort,Zandvoort,Netherlands,4.259,14,75.632
+2024,16,Italian Grand Prix,monza-7,Autodromo Nazionale Monza,Monza,Italy,5.793,11,84.542
+2024,17,Azerbaijan Grand Prix,baku-1,Baku City Circuit,Baku,Azerbaijan,6.003,20,109.373
+2024,18,Singapore Grand Prix,marina-bay-4,Marina Bay Street Circuit,Singapore,Singapore,4.940,19,97.622
+2024,19,United States Grand Prix,austin-1,Circuit of the Americas,Austin,United States of America,5.513,20,101.958
+2024,20,Mexican Grand Prix,mexico-city-3,Autódromo Hermanos Rodríguez,Mexico City,Mexico,4.304,17,85.293
+2024,21,São Paulo Grand Prix,interlagos-2,Autódromo José Carlos Pace,São Paulo,Brazil,4.309,15,110.354
+2024,22,Las Vegas Grand Prix,las-vegas-1,Las Vegas Street Circuit,Las Vegas,United States of America,6.201,17,98.519
+2024,23,Qatar Grand Prix,lusail-1,Lusail International Circuit,Lusail,Qatar,5.419,16,95.883
+2024,24,Abu Dhabi Grand Prix,yas-marina-2,Yas Marina Circuit,Abu Dhabi,United Arab Emirates,5.281,16,89.54
+2025,1,Australian Grand Prix,melbourne-2,Albert Park Circuit,Melbourne,Australia,5.278,14,107.479
+2025,2,Chinese Grand Prix,shanghai-1,Shanghai International Circuit,Shanghai,China,5.451,16,97.411
+2025,3,Japanese Grand Prix,suzuka-2,Suzuka Circuit,Suzuka,Japan,5.807,18,92.962
+2025,4,Bahrain Grand Prix,bahrain-1,Bahrain International Circuit,Sakhir,Bahrain,5.412,15,100.692
+2025,5,Saudi Arabian Grand Prix,jeddah-1,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,6.174,27,97.335
+2025,6,Miami Grand Prix,miami-1,Miami International Autodrome,Miami Gardens,United States of America,5.412,19,93.537
+2025,7,Emilia Romagna Grand Prix,imola-3,Autodromo Internazionale Enzo e Dino Ferrari,Imola,Italy,4.909,19,87.194
+2025,8,Monaco Grand Prix,monaco-6,Circuit de Monaco,Monte Carlo,Monaco,3.337,19,77.357
+2025,9,Spanish Grand Prix,catalunya-6,Circuit de Barcelona-Catalunya,Montmeló,Spain,4.657,14,84.506
+2025,10,Canadian Grand Prix,montreal-6,Circuit Gilles Villeneuve,Montreal,Canada,4.361,14,78.753
+2025,11,Austrian Grand Prix,spielberg-3,Red Bull Ring,Spielberg,Austria,4.326,10,71.824
+2025,12,British Grand Prix,silverstone-8,Silverstone Circuit,Silverstone,United Kingdom,5.891,18,112.226
+2025,13,Belgian Grand Prix,spa-francorchamps-4,Circuit de Spa-Francorchamps,Spa,Belgium,7.004,19,116.423
+2025,14,Hungarian Grand Prix,hungaroring-3,Hungaroring,Budapest,Hungary,4.381,14,81.732
+2025,15,Dutch Grand Prix,zandvoort-5,Circuit Zandvoort,Zandvoort,Netherlands,4.259,14,82.081
+2025,16,Italian Grand Prix,monza-7,Autodromo Nazionale Monza,Monza,Italy,5.793,11,83.1
+2025,17,Azerbaijan Grand Prix,baku-1,Baku City Circuit,Baku,Azerbaijan,6.003,20,109.93
+2025,18,Singapore Grand Prix,marina-bay-4,Marina Bay Street Circuit,Singapore,Singapore,4.927,19,97.135
+2025,19,United States Grand Prix,austin-1,Circuit of the Americas,Austin,United States of America,5.513,20,100.717
+2025,20,Mexican Grand Prix,mexico-city-3,Autódromo Hermanos Rodríguez,Mexico City,Mexico,4.304,17,82.797
+2025,21,São Paulo Grand Prix,interlagos-2,Autódromo José Carlos Pace,São Paulo,Brazil,4.309,15,77.769
+2025,22,Las Vegas Grand Prix,las-vegas-1,Las Vegas Street Circuit,Las Vegas,United States of America,6.201,17,97.369
+2025,23,Qatar Grand Prix,lusail-1,Lusail International Circuit,Lusail,Qatar,5.419,16,89.092
+2025,24,Abu Dhabi Grand Prix,yas-marina-2,Yas Marina Circuit,Abu Dhabi,United Arab Emirates,5.281,16,89.094
+2026,1,Australian Grand Prix,melbourne-2,Albert Park Circuit,Melbourne,Australia,5.278,14,85.979
+2026,2,Chinese Grand Prix,shanghai-1,Shanghai International Circuit,Shanghai,China,5.451,16,99.922
+2026,3,Japanese Grand Prix,suzuka-2,Suzuka Circuit,Suzuka,Japan,5.807,18,99.687
+2026,4,Miami Grand Prix,miami-1,Miami International Autodrome,Miami Gardens,United States of America,5.412,19,98.233
+2026,5,Canadian Grand Prix,montreal-6,Circuit Gilles Villeneuve,Montreal,Canada,4.361,14,77.879
+2026,6,Monaco Grand Prix,monaco-6,Circuit de Monaco,Monte Carlo,Monaco,3.337,19,110.401
+2026,7,Barcelona-Catalunya Grand Prix,catalunya-6,Circuit de Barcelona-Catalunya,Montmeló,Spain,4.657,14,84.062
+2026,8,Austrian Grand Prix,spielberg-3,Red Bull Ring,Spielberg,Austria,4.326,10,73.211
+2026,9,British Grand Prix,silverstone-8,Silverstone Circuit,Silverstone,United Kingdom,5.891,18,100.603
+2026,10,Belgian Grand Prix,spa-francorchamps-4,Circuit de Spa-Francorchamps,Spa,Belgium,7.004,19,115.511
+2026,11,Hungarian Grand Prix,hungaroring-3,Hungaroring,Budapest,Hungary,4.381,14,85.66
+2026,12,Dutch Grand Prix,zandvoort-5,Circuit Zandvoort,Zandvoort,Netherlands,4.259,14,103.956
+2026,13,Italian Grand Prix,monza-7,Autodromo Nazionale Monza,Monza,Italy,5.793,11,125.949
+2026,14,Spanish Grand Prix,madring-1,Circuito de Madring,Madrid,Spain,5.416,22,99.364
+2026,15,Azerbaijan Grand Prix,baku-1,Baku City Circuit,Baku,Azerbaijan,6.003,20,115.336
+2026,16,Bahrain Grand Prix,sepang-1,Sepang International Circuit,Sepang,Malaysia,5.543,15,116.997
+2026,17,Singapore Grand Prix,marina-bay-4,Marina Bay Street Circuit,Singapore,Singapore,4.927,19,98.722
+2026,18,United States Grand Prix,austin-1,Circuit of the Americas,Austin,United States of America,5.513,20,102.083
+2026,19,Mexican Grand Prix,mexico-city-3,Autódromo Hermanos Rodríguez,Mexico City,Mexico,4.304,17,118.715
+2026,20,São Paulo Grand Prix,interlagos-2,Autódromo José Carlos Pace,São Paulo,Brazil,4.309,15,80.613
+2026,21,Las Vegas Grand Prix,las-vegas-1,Las Vegas Street Circuit,Las Vegas,United States of America,6.201,17,105.192
+2026,22,Qatar Grand Prix,lusail-1,Lusail International Circuit,Lusail,Qatar,5.419,16,
+2026,23,Abu Dhabi Grand Prix,yas-marina-2,Yas Marina Circuit,Abu Dhabi,United Arab Emirates,5.281,16,

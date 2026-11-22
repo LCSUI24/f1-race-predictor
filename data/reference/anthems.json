@@ -1,0 +1,72 @@
+{
+  "au": {
+    "country": "Australia",
+    "title": "Advance Australia Fair",
+    "performer": "United States Navy Band",
+    "source": "https://commons.wikimedia.org/wiki/File:U.S._Navy_Band%2C_Advance_Australia_Fair_%28instrumental%29.ogg",
+    "license": "Public domain"
+  },
+  "de": {
+    "country": "Jerman",
+    "title": "Deutschlandlied",
+    "performer": "United States Navy Band",
+    "source": "https://commons.wikimedia.org/wiki/File:German_national_anthem_performed_by_the_US_Navy_Band.ogg",
+    "license": "Public domain"
+  },
+  "es": {
+    "country": "Spanyol",
+    "title": "Marcha Real",
+    "performer": "United States Navy Band",
+    "source": "https://commons.wikimedia.org/wiki/File:Marcha_Real-Royal_March_by_US_Navy_Band.ogg",
+    "license": "Public domain"
+  },
+  "fi": {
+    "country": "Finlandia",
+    "title": "Maamme",
+    "performer": "United States Navy Band",
+    "source": "https://commons.wikimedia.org/wiki/File:United_States_Navy_Band_-_Maamme.ogg",
+    "license": "Public domain"
+  },
+  "fr": {
+    "country": "Prancis",
+    "title": "La Marseillaise",
+    "performer": "United States Navy Band",
+    "source": "https://commons.wikimedia.org/wiki/File:La_Marseillaise.ogg",
+    "license": "Public domain"
+  },
+  "gb": {
+    "country": "Britania Raya",
+    "title": "God Save the King",
+    "performer": "United States Navy Band",
+    "source": "https://commons.wikimedia.org/wiki/File:U.S._Navy_Band_-_God_Save_the_King.oga",
+    "license": "Public domain"
+  },
+  "it": {
+    "country": "Italia",
+    "title": "Il Canto degli Italiani",
+    "performer": "United States Navy Band",
+    "source": "https://commons.wikimedia.org/wiki/File:National_anthem_of_Italy_-_U.S._Navy_Band_%28long_version%29.ogg",
+    "license": "Public domain"
+  },
+  "mc": {
+    "country": "Monako",
+    "title": "Hymne Monégasque",
+    "performer": "United States Navy Band",
+    "source": "https://commons.wikimedia.org/wiki/File:Monaco_National_Anthem.ogg",
+    "license": "Public domain"
+  },
+  "mx": {
+    "country": "Meksiko",
+    "title": "Himno Nacional Mexicano",
+    "performer": "United States Navy Band",
+    "source": "https://commons.wikimedia.org/wiki/File:Himno_Nacional_Mexicano_instrumental.ogg",
+    "license": "Public domain"
+  },
+  "nl": {
+    "country": "Belanda",
+    "title": "Het Wilhelmus",
+    "performer": "United States Navy Band",
+    "source": "https://commons.wikimedia.org/wiki/File:United_States_Navy_Band_-_Het_Wilhelmus_%28tempo_corrected%29.ogg",
+    "license": "Public domain"
+  }
+}
